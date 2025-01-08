@@ -1,0 +1,6 @@
+[submodule "abstractions"]
+	path = packages/abstractions
+	url = git@github.com:sample-monorepo/sample-abstractions.git
+[submodule "http"]
+	path = packages/http
+	url = git@github.com:sample-monorepo/sample-http.git
